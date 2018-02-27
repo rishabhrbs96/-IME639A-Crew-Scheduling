@@ -1,0 +1,49 @@
+OPTIMAL SOLUTION COST = 28.0
+NUMBER OF CREW SCHEDULES = 2
+
+CREW SCHEDULE 1
+The following trips will be paired together in schedule 1
+	Trip: 1
+		Source City: 1
+		Departure Time from source(in hrs): 8
+		Destination City: 2
+		Arrival Time at Destination(in hrs): 10
+
+	Trip: 7
+		Source City: 2
+		Departure Time from source(in hrs): 11
+		Destination City: 3
+		Arrival Time at Destination(in hrs): 12
+
+	Trip: 3
+		Source City: 3
+		Departure Time from source(in hrs): 13
+		Destination City: 4
+		Arrival Time at Destination(in hrs): 14
+
+	Trip: 5
+		Source City: 4
+		Departure Time from source(in hrs): 15
+		Destination City: 1
+		Arrival Time at Destination(in hrs): 16
+
+CREW SCHEDULE 2
+The following trips will be paired together in schedule 2
+	Trip: 4
+		Source City: 3
+		Departure Time from source(in hrs): 15
+		Destination City: 1
+		Arrival Time at Destination(in hrs): 16
+
+	Trip: 6
+		Source City: 1
+		Departure Time from source(in hrs): 17
+		Destination City: 2
+		Arrival Time at Destination(in hrs): 18
+
+	Trip: 2
+		Source City: 2
+		Departure Time from source(in hrs): 10
+		Destination City: 3
+		Arrival Time at Destination(in hrs): 11
+
